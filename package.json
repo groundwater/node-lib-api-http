@@ -1,0 +1,25 @@
+{
+  "name": "lib-api-init",
+  "version": "0.0.0",
+  "description": "init http api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "lib-http-rpc": "^0.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/groundwater/node-lib-api-http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/groundwater/node-lib-api-http/issues"
+  },
+  "homepage": "https://github.com/groundwater/node-lib-api-http"
+}
